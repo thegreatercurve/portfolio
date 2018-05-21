@@ -1,0 +1,22 @@
+.container {
+  line-height: 1.5;
+  padding: 1rem;
+  max-width: 30rem;
+}
+
+.list {
+  display: flex;
+  list-style-type: none;
+}
+
+.btn {
+  margin-right: 1.25rem;
+}
+
+.btn a:hover {
+  color: #ff0000;
+}
+
+footer {
+  margin-top: 2rem;
+}
