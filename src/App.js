@@ -19,7 +19,7 @@ class App extends Component {
               <a href="https://codepen.io/thegreatercurve" target="_blank" rel="noopener noreferrer">Codepen</a>
             </li>
             <li className="btn">
-              <a href="https://twitter.com/jrflockton" target="_blank" rel="noopener noreferrer">Twitter</a>
+              <a href="/john_flockton_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
             </li>
           </ul>
         </main>
