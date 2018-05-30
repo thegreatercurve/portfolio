@@ -10,7 +10,7 @@ class App extends Component {
           <h2>My name is John Flockton <span role="img" aria-labelledby="jsx-a11y/accessible-emoji">🙂</span></h2>
         </header>
         <main>
-          <p>I'm a Front-End Developer from London, who prides themselves on creativity, quality and performance.</p>
+          <p>I'm a Front-End Developer from London, who prides himself on creativity, quality and performance.</p>
           <ul className="list">
             <li className="btn">
               <a href="https://github.com/thegreatercurve" target="_blank" rel="noopener noreferrer">Github</a>
